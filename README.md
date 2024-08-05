@@ -6,13 +6,16 @@ This project provides a complete pipeline for building, training, evaluating, an
 ## Setup and Installation
 
 1. **Clone the repository:**
+   ```sh
    git clone https://github.com/kaurrmanpreett/UCLA-Neural_Network_Solutions.git
 
-2. Create and activate a virtual environment (optional but recommended):
+3. Create and activate a virtual environment (optional but recommended):
+   ```sh
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-3. Install the required packages:
+5. Install the required packages:
+   ```sh
    pip install -r requirements.txt
 
 
@@ -30,4 +33,4 @@ This project provides a complete pipeline for building, training, evaluating, an
 The script will output the Confusion Matrix and Accuracy for the model on the testing dataset. Additionally, it will plot the loss curve of the model and print the best parameters and score from the grid search.
 
 ## License
-This project is licensed under the Apache License.
+This project is licensed under the Apache License 2.0.
