@@ -7,7 +7,7 @@ This project provides a complete pipeline for building, training, evaluating, an
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/kaurrmanpreett/UCLA-Neural_Network_Solutions.git
+   git clone https://github.com/kaurrmanpreett/UCLA-Neural_Networks.git
 
 3. Create and activate a virtual environment (optional but recommended):
    ```sh
